@@ -30,3 +30,12 @@ input{
     padding: 3px;
 }
 
+a{
+    color: black;
+    font-size: 10pt;
+    text-decoration: none;
+}
+
+p#voltar{
+    text-align: center;
+}
